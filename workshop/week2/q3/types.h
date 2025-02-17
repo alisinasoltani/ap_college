@@ -4,7 +4,7 @@
     {
         char name[30];
         char *family;
-        int n_code; // کد ملی
+        int n_code;     // کد ملی
         int age;
     };
     struct student
